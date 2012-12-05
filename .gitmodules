@@ -1,0 +1,3 @@
+[submodule "cucumber_training_start"]
+	path = cucumber_training_start
+	url = https://github.com/chrismdp/checkout-kata.git
